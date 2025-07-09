@@ -100,11 +100,11 @@ My strong technical foundation and hands-on experience cover a wide range of tec
 ### Portfolio & Projects 🌐
 
 Here are some of the public web projects I have worked on:
-* [cite_start][ywbod.org](https://ywbod.org/) [cite: 147]
-* [cite_start][socotra-tours.com](https://socotra-tours.com) [cite: 148]
-* [cite_start][worktime-ye.com](https://worktime-ye.com/) [cite: 149]
-* [cite_start][renewalyouth.org](https://renewalyouth.org/) [cite: 149]
-* [cite_start][dao-ye.org/en](https://dao-ye.org/en) [cite: 149]
+* [cite_start][ywbod.org] [cite: 147]
+* [cite_start][socotra-tours.com] [cite: 148]
+* [cite_start][worktime-ye.com] [cite: 149]
+* [cite_start][renewalyouth.org] [cite: 149]
+* [cite_start][dao-ye.org/en] [cite: 149]
 * [cite_start]*And many other small systems, works, and special programs not publicly available online.* [cite: 150]
 
 ---
