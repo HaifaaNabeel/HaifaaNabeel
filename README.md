@@ -68,15 +68,6 @@ My strong technical foundation and hands-on experience cover a wide range of tec
 
 ---
 
-### Professional Experience Highlights 💼
-
-* [cite_start]**Full Stack Developer & Project Manager** at Development Action Organization (Jan 2025 - Apr 2025): Responsible for entire website development, including design, programming, and maintenance, focusing on user experience and high performance[cite: 51, 61, 62]. [cite_start]Developed innovative technical solutions and effective integration between UI and backend[cite: 64].
-* [cite_start]**Full Stack Developer & Project Manager** at Renewal Youth (Dec 2023 - Dec 2024): Led the website development team, primarily responsible for backend using Laravel, managing various technical aspects, and ensuring high performance[cite: 117, 118, 119].
-* [cite_start]**Web Developer & Project Manager** at Youth Without Borders (Feb 2023 - Mar 2024): Team leader and web developer focused on backend with Bootstrap and Laravel, developing interactive user interfaces and ensuring website reliability[cite: 122, 124, 125].
-* [cite_start]**Programming Trainer** in various capacities (Sheba Youth Foundation, Freelance, Rowad Foundation, YT Institute, Private Universities): Over three years of experience delivering programming courses, developing skills, supervising projects, and providing comprehensive technical support across multiple languages and tools[cite: 17, 18, 19, 20, 22, 24, 29, 30, 43, 46, 47].
-
----
-
 ### What I'm Looking For 🤝
 
 * 👯 I am actively seeking opportunities to **collaborate and work in dynamic companies**, contributing my expertise within professional software development teams on large-scale projects.
@@ -97,25 +88,13 @@ My strong technical foundation and hands-on experience cover a wide range of tec
 
 ---
 
-### Portfolio & Projects 🌐
-
-Here are some of the public web projects I have worked on:
-* [cite_start][ywbod.org] [cite: 147]
-* [cite_start][socotra-tours.com] [cite: 148]
-* [cite_start][worktime-ye.com] [cite: 149]
-* [cite_start][renewalyouth.org] [cite: 149]
-* [cite_start][dao-ye.org/en] [cite: 149]
-* [cite_start]*And many other small systems, works, and special programs not publicly available online.* [cite: 150]
-
----
-
 ### Connect With Me 👋
 
 * 💬 Feel free to reach out with any inquiries or suggestions.
 * [cite_start]**Email:** [haifaa.nabeel555@gmail.com](mailto:haifaa.nabeel555@gmail.com) [cite: 7]
 * [cite_start]**Phone:** 777526457 / 735050559 [cite: 8]
 * [cite_start]**Address:** Yemen, Taiz [cite: 9]
-* [**LinkedIn Profile**](https://www.linkedin.com/in/haifaa-nabeel-994977152/) *(Replace with your actual LinkedIn URL)*
-* [**Personal Portfolio/Website**](https://haifaanabeel.github.io/haifaa-portfolio/) *(Replace if you have one)*
+* [**LinkedIn Profile**](https://www.linkedin.com/in/haifaa-nabeel-994977152/)
+* [**Personal Portfolio/Website**](https://haifaanabeel.github.io/haifaa-portfolio/)
 
 ---
